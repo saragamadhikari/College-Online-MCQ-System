@@ -16,4 +16,18 @@ Technology Stack
 Frontend: HTML, CSS, JavaScript,
 PHP Backend : MYSQLI
 
+Admin Login 
+Username : admin@gmail.com
+Password : admin
+
+Student Login 
+Username : 787954
+Password : sara54
+
+Teacher Login 
+Username : 01
+Password : shiva
+
+
+
 :) :)
