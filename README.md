@@ -1,4 +1,4 @@
-# College-Online-MCQ-System
+# College-Online-Exam-MCQ-System
 
 Overview:
 The College Online MCQ (Multiple Choice Question) System is a web-based application designed to facilitate the creation, administration, and evaluation of multiple-choice tests for educational institutions. This system aims to streamline the assessment process, providing a user-friendly platform for both instructors and students.
